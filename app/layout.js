@@ -1,6 +1,6 @@
 import './globals.css';
-import Navbar from '@/components/Navbar';
-import Footer from '@/Components/Footer';
+import Navbar from '../components/Navbar';
+import Footer from '../Components/Footer';
 
 
 
